@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '37729'
     url: http://www.gutenberg.org/2009/agents/37729
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Giberne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73389#Miss-Con
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
